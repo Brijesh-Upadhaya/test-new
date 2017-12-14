@@ -18,7 +18,7 @@ def get_word_lengths(s):
     Returns a list of integers representing
     the word lengths in string s.
     """
-    # uncomment next line in step 9
+    # uncomment the next line in step 9
 #   return [len(word) for word in s.split()]
     return None
 
